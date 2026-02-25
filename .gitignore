@@ -1,0 +1,15 @@
+# --- NetBeans Project Files ---
+nbproject/private/
+build/
+dist/
+
+# --- Java Compiled Files ---
+*.class
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Database Files (Local) ---
+*.db
+*.sqlite
