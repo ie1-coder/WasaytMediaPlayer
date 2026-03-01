@@ -44,8 +44,7 @@ This project was developed in accordance with software engineering best practice
 
 | **Name** | **Role** | **Student ID** |
 |----------|----------|----------------|
-| Samaher Al-Masri | Software Developer & Project Lead | [Your ID] |
-| [Team Member Name] | Software Developer | [Student ID] |
+| Samaher Al-Sousi | Software Developer & Project Lead | 220225174 |
 
 ---
 
