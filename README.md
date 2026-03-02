@@ -112,7 +112,3 @@ This project was developed in accordance with software engineering best practice
 - Responsive layout
 - Dark/Light theme options
 - Keyboard shortcuts for common operations
-
----
-
-## Project Structure
