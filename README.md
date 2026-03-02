@@ -34,7 +34,7 @@ This project was developed in accordance with software engineering best practice
 | **Institution** | University College of Applied Sciences |
 | **Faculty** | Faculty of Information Technology |
 | **Department** | Department of Software Development |
-| **Course Name** | Software Development |
+| **Course Name** | Software Engineering |
 | **Semester** | First Semester 2025-2026 |
 | **Instructor** | Ms. Aya F. Nabih |
 
@@ -44,8 +44,7 @@ This project was developed in accordance with software engineering best practice
 
 | **Name** | **Role** | **Student ID** |
 |----------|----------|----------------|
-| Samaher Al-Masri | Software Developer & Project Lead | [Your ID] |
-| [Team Member Name] | Software Developer | [Student ID] |
+| Samaher Al-Masri | Software Developer & Project Lead | 220225174 |
 
 ---
 
